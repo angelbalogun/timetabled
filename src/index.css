@@ -87,15 +87,15 @@ td {
 }
 
 .pink {
-  background: rgb(212, 169, 176);
+  background: rgb(75, 7, 25);
 }
 
 .blue {
-  background: rgb(158, 198, 211);
+  background: rgb(6, 12, 41);
 }
 
 .green {
-  background: rgba(143, 187, 164, 0.986);
+  background: rgba(37, 7, 42, 0.986);
 } 
 
 @media (prefers-color-scheme: light) {
